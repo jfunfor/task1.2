@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6758a84-6b11-4d49-b668-98c15339c799" name="vm1">
+        <fileTransfer rootFolder="/home/centos" accessType="SFTP" host="192.168.200.108" port="22" sshConfigId="f22f0d8d-6ed0-4c43-86eb-016cd1d0be0c" sshConfig="root@192.168.200.108:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
